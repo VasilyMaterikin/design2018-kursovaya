@@ -1,7 +1,6 @@
 # Курсовой проект по курсу "Проектирование информационных систем"
 
 ## Тема: Проектирование информационной системы поддержки разработки и обновления приложений для мобильных устройств 
-## Выполнил студент группы [ИДБ-15-14](https://github.com/stankin/design-2018/wiki/list-idb-15-14) Материкин В.В.
 
 #### Разработка функциональных моделей (IDEF0)
 
@@ -22,15 +21,15 @@
 
 * Контекстная диаграмма А0 "Автоматизировать процесс DevOps мобильного приложения":
 
-![none](https://vasilymaterikin.github.io/Kursovaya/01_A0.png)
+![none](https://viska97.github.io/design2018/Kursovaya/01_A0.png)
 
 * Декомпозиция диаграммы А0:
 
-![none](https://vasilymaterikin.github.io/Kursovaya/02_A0.png)
+![none](https://viska97.github.io/design2018/Kursovaya/02_A0.png)
 
 * Декомпозиция блока А2: "Собрать приложение":
 
-![none](https://vasilymaterikin.github.io/Kursovaya/04_A2.png)
+![none](https://viska97.github.io/design2018/Kursovaya/04_A2.png)
 
 ***
 
@@ -42,28 +41,28 @@
   - Репозиторий артефактов на сервере.
   
 * Декомпозиция блока А1 "Настроить конфигурацию":
-![none](https://vasilymaterikin.github.io/Kursovaya/03_A1.png)
+![none](https://viska97.github.io/design2018/Kursovaya/03_A1.png)
 
 * Декомпозиция блока А21 "Загрузить код в репозиторий":
-![none](https://vasilymaterikin.github.io/Kursovaya/05_A21.png)
+![none](https://viska97.github.io/design2018/Kursovaya/05_A21.png)
 
 * Декомпозиция блока А22 "Запустить процесс сборки":
-![none](https://vasilymaterikin.github.io/Kursovaya/06_A22.png)
+![none](https://viska97.github.io/design2018/Kursovaya/06_A22.png)
 
 * Декомпозиция блока А23 "Выполнить локальные тесты":
-![none](https://vasilymaterikin.github.io/Kursovaya/07_A23.png)
+![none](https://viska97.github.io/design2018/Kursovaya/07_A23.png)
 
 * Декомпозиция блока А24 "Собрать тестовый артефакт":
-![none](https://vasilymaterikin.github.io/Kursovaya/08_A24.png)
+![none](https://viska97.github.io/design2018/Kursovaya/08_A24.png)
 
 * Декомпозиция блока А25 "Загрузить тестовый артефакт в репозиторий":
-![none](https://vasilymaterikin.github.io/Kursovaya/09_A25.png)
+![none](https://viska97.github.io/design2018/Kursovaya/09_A25.png)
 
 * Декомпозиция блока А3 "Протестировать приложение на устройствах":
-![none](https://vasilymaterikin.github.io/Kursovaya/10_A3.png)
+![none](https://viska97.github.io/design2018/Kursovaya/10_A3.png)
 
 * Декомпозиция блока А4 "Распространить приложение":
-![none](https://vasilymaterikin.github.io/Kursovaya/11_A4.png)
+![none](https://viska97.github.io/design2018/Kursovaya/11_A4.png)
 
 * Расчёт UFP:
 ![none](https://raw.githubusercontent.com/VasilyMaterikin/design2018-kursovaya/master/ufp.png)
@@ -84,24 +83,21 @@
 
 #### Разработка диаграмм классов (ERD)
 
-* [Диаграмма ERD для потоков](https://github.com/VasilyMaterikin/VasilyMaterikin.github.io/blob/master/Kursovaya/flows.txt)<br>
-![none](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/VasilyMaterikin/VasilyMaterikin.github.io/master/Kursovaya/flows.txt)<br>
+* [Диаграмма ERD для потоков](https://github.com/VasilyMaterikin/viska97.github.io/design2018/blob/master/Kursovaya/flows.txt)<br>
+![none](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/VasilyMaterikin/viska97.github.io/design2018/master/Kursovaya/flows.txt)<br>
 
-* [Диаграмма ERD для ролей](https://github.com/VasilyMaterikin/VasilyMaterikin.github.io/blob/master/Kursovaya/roles.txt)<br>
-![none](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/VasilyMaterikin/VasilyMaterikin.github.io/master/Kursovaya/roles.txt)<br>
+* [Диаграмма ERD для ролей](https://github.com/VasilyMaterikin/viska97.github.io/design2018/blob/master/Kursovaya/roles.txt)<br>
+![none](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/VasilyMaterikin/viska97.github.io/design2018/master/Kursovaya/roles.txt)<br>
 
-* [Диаграмма ERD для модулей](https://github.com/VasilyMaterikin/VasilyMaterikin.github.io/blob/master/Kursovaya/modules.txt)<br>
-![none](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/VasilyMaterikin/VasilyMaterikin.github.io/master/Kursovaya/modules.txt)<br>
+* [Диаграмма ERD для модулей](https://github.com/VasilyMaterikin/viska97.github.io/design2018/blob/master/Kursovaya/modules.txt)<br>
+![none](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/VasilyMaterikin/viska97.github.io/design2018/master/Kursovaya/modules.txt)<br>
 
 ***
 
 #### Файлы курсового проекта
 
-* [Модель в формате .rsf](https://github.com/VasilyMaterikin/VasilyMaterikin.github.io/blob/master/Kursovaya/kursovaya.rsf) 
+* [Модель в формате .rsf](https://github.com/VasilyMaterikin/viska97.github.io/design2018/blob/master/Kursovaya/kursovaya.rsf) 
 
-* [Курсовой проект в формате .docx](https://github.com/VasilyMaterikin/VasilyMaterikin.github.io/blob/master/Kursovaya/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20-%20%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BA%D0%B8%D0%BD%20%D0%92.%D0%92.docx)
+* [Курсовой проект в формате .docx](https://github.com/VasilyMaterikin/viska97.github.io/design2018/blob/master/Kursovaya/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20-%20%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BA%D0%B8%D0%BD%20%D0%92.%D0%92.docx)
 
-* [Курсовой проект в формате .pdf](https://github.com/VasilyMaterikin/VasilyMaterikin.github.io/blob/master/Kursovaya/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20-%20%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BA%D0%B8%D0%BD%20%D0%92.%D0%92.pdf)
-
-  
-  
+* [Курсовой проект в формате .pdf](https://github.com/VasilyMaterikin/viska97.github.io/design2018/blob/master/Kursovaya/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20-%20%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BA%D0%B8%D0%BD%20%D0%92.%D0%92.pdf)
